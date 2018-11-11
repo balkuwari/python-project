@@ -1,0 +1,25 @@
+Project description 
+15-112 Fundamentals of Programming
+Fall 2018
+Buthaina Al-kuwari
+AndrewID: balkuwar
+
+My project will be implementing the popular game Tetris, I chose this game specifically because, i enjoyed playing this game since i was young. 
+I will be using couple of libraries including Pigame and Random.
+
+My project will include the following features:
+1- Main menu which includes a login, signup, leaderboard, play game buttons.
+2- User will be able to view his/her current score. The score will keep increasing while user is able to form a horizontal line of cubes until the cubes reach the the last row.
+3- The game will have a single mode, which keeps getting harder while the time is counting.
+4- user will be able to see number of current filled lines of cubes.
+5- User will be able to record his/her high score while logged in.
+6- The game will have a pause and resume button.
+7- User will be able to view shadow of the current shape. 
+8- User will be able to view the next 3 random shapes.
+
+Description of the user interface: 
+The user interface will include a main menu as mentioned in point number 1. The interface during the game will have a pause and resume button that can be controlled using the button P to pause and R to resume. The keyboard arrows will be used to move the shapes. The mouse will be used to navigate from the main menu to play the game it self.
+
+for the first checkpoint (November 25), my project will be able to function 1,2,3,4 features as mentioned above.
+
+for the second checkpoint (December 6), my project will be able to function features number 5,6,7,8 as mentioned above.# python-project
